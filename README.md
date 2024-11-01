@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a technical support specialist with over 15 years of experience in customer service and troubleshooting. Recently certified in cybersecurity from the University of Toronto, I am passionate about enhancing security measures and fostering collaboration to ensure best practices are met.
+I'm a technical support specialist with over 15 years of experience in customer service and troubleshooting. Recently certified in cybersecurity from the University of Toronto, I excel at translating complex technical concepts for non-technical audiences, creating clear and comprehensive documentation, enhancing security measures through effective communication, and fostering collaboration to ensure best practices are implemented.
 
 ## Skills
 
