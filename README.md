@@ -21,7 +21,7 @@ Performed incident response and penetration testing on VSI’s systems to detect
 ### [Penetration Testing Project](https://github.com/tylerbcrawford/rekall-penetration-testing)
 Conducted comprehensive penetration tests on Rekall Corporation’s network and web applications, identifying critical vulnerabilities. Used tools like Nmap, Metasploit, and Burp Suite to enhance their security posture.
 
-### [Monsterr Media Server - Coming Soon]
+### Monsterr Media Server - Coming Soon
 Presenting Monsterr Media Server, a new project crafted with Python and Bash on Ubuntu Linux. Emphasizing strong security through the implementation of two-factor authentication (2FA), this project highlights proficiency in developing secure applications alongside an intuitive user interface.
 
 ## Connect With Me
