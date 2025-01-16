@@ -2,8 +2,11 @@
 
 ## About Me 🧑‍💻
 
-I'm a technical support specialist with over **15 years** of experience in customer service and troubleshooting. 🛠️ Recently certified in **cybersecurity** from the University of Toronto 🎓, I excel at translating complex technical concepts for non-technical audiences, creating clear and comprehensive documentation 📝, enhancing security measures through effective communication 🔒, and fostering collaboration to ensure best practices are implemented 🤝.
+I’m Tyler B. Crawford, a technical professional with a dynamic background that bridges technology and the arts. With over **15 years** of experience in technical support and troubleshooting, I’ve built a reputation for translating complex technical concepts into clear, actionable insights and empowering teams with effective documentation and communication. Recently certified in **cybersecurity** from the University of Toronto, I am passionate about enhancing security measures, fostering collaboration, and implementing best practices in diverse environments.
 
+My career also includes a decade in the **music industry**, where I served as a **Tour Manager** and **Pro Audio Consultant** for Juno and Polaris-nominated artists. I’ve managed **300+ shows and international tours**, coordinated six-figure budgets, and led teams in high-pressure, fast-changing environments. As a consultant, I’ve designed and optimized recording studio systems, developed and manufactured innovative audio processors, and collaborated with Grammy-winning producers to deliver cutting-edge solutions.
+
+Today, I’m focused on harnessing the power of **AI to enable learning, boost productivity, and develop innovative AI agent solutions**. By integrating my technical expertise and creative problem-solving skills, I aim to empower individuals and organizations to achieve more while maintaining a secure and efficient environment.
 ## Skills 🚀
 
 - **Languages:** 🐍 Bash, Python, SQL, HTML
