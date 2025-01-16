@@ -9,9 +9,9 @@ My career also includes a decade in the **music industry**, where I served as a 
 Today, I’m focused on harnessing the power of **AI to enable learning, boost productivity, and develop innovative AI agent solutions**. By integrating my technical expertise and creative problem-solving skills, I aim to empower individuals and organizations to achieve more while maintaining a secure and efficient environment.
 ## Skills 🚀
 
-- **Languages:** 🐍 Bash, Python, SQL, HTML
-- **Operating Systems:** 🐧 Linux, Kali Linux, 🪟 Windows, 🍎 MacOS, 📱 iOS
-- **Tools:** 🔍 Burp Suite, 🛡️ Metasploit, 📊 Splunk, 🌐 Wireshark
+- **Languages**: 🐍 Python, 🖥️ Bash, 🗄️ SQL, 🌐 HTML/CSS, 💡 JavaScript  
+- **Operating Systems**: 🐧 Linux, 🛡️ Kali Linux, 🪟 Windows, 🍎 MacOS, 📱 iOS  
+- **Tools**: 🔍 Burp Suite, 🛡️ Metasploit, 📊 Splunk, 🌐 Wireshark, 🖇️ GitHub, 📝 VS Code, 🤖 ChatGPT, 🔮 Claude  
 
 ## Current Projects ⚙️
 
