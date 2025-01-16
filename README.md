@@ -26,7 +26,7 @@ Presenting **Monsterr Media Server**, a new project crafted with **Python and Ba
 ### [IoT Lightbulb Hacking Project](https://github.com/tylerbcrawford/iot-vulnerability-analysis) 💡🔓
 Analyzed security vulnerabilities in TP-Link Tapo L530E smart bulbs, identifying flaws in authentication and encryption. 🔍 Utilized Wireshark and REST APIs to demonstrate attack scenarios and recommend security improvements. 🛡️
 
-### [Incident Response Project](https://github.com/tylerbcrawford/vsi-splunk-siem) 🛠️
+### [Splunk Incident Response Project](https://github.com/tylerbcrawford/vsi-splunk-siem) 🛠️
 Performed **incident response** and **penetration testing** on VSI’s systems to detect cyberattacks. Leveraged **Splunk** and Windows Security Operations Center 🖥️ to analyze logs and provide security recommendations. 📈
 
 ### [Secure Web Application](https://github.com/tylerbcrawford/azure-cloud-security) 🌐
