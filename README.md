@@ -26,9 +26,11 @@ Analyzed security vulnerabilities in TP-Link Tapo L530E smart bulbs, identifying
 ### [Incident Response Project](https://github.com/tylerbcrawford/vsi-splunk-siem)
 Performed incident response and penetration testing on VSI’s systems to detect cyberattacks. Leveraged Splunk and Windows Security Operations Center to analyze logs and provide security recommendations.
 
+### [Secure Web Application](https://github.com/tylerbcrawford/azure-cloud-security)
+Deployed Dockerized DVWA behind a load balancer with Network Security Groups and a Jump Box. Automated with Ansible, showcasing Azure cloud security best practices.
+
 ### [Penetration Testing Project](https://github.com/tylerbcrawford/rekall-penetration-testing)
 Conducted comprehensive penetration tests on Rekall Corporation’s network and web applications, identifying critical vulnerabilities. Used tools like Nmap, Metasploit, and Burp Suite to enhance their security posture.
-
 
 ## Connect With Me
 
