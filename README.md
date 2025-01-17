@@ -13,7 +13,7 @@ Today, I’m focused on harnessing the power of **AI to enable learning, boost p
 - **Operating Systems**: 🐧 Linux, 🛡️ Kali Linux, 🪟 Windows, 🍎 MacOS, 📱 iOS  
 - **Tools**: 🔍 Burp Suite, 🛡️ Metasploit, 📊 Splunk, 🌐 Wireshark, 🖇️ GitHub, 📝 VS Code, 🤖 ChatGPT, 🔮 Claude  
 
-## Current Projects ⚙️
+## Currently Under Development ⚙️
 
 ### [LLiMage](https://github.com/tylerbcrawford/llimage) 📄✨
 Transform PDFs for **AI-driven workflows**: LLiMage extracts text and converts embedded images into **rich descriptions** readable by LLMs. Its **secure, local processing** maximizes privacy and efficiency, ensuring you get the most from your data.
@@ -24,7 +24,7 @@ Transform PDFs for **AI-driven workflows**: LLiMage extracts text and converts e
 Analyzed security vulnerabilities in TP-Link Tapo L530E smart bulbs, identifying flaws in authentication and encryption. Utilized Wireshark and REST APIs to demonstrate attack scenarios and recommend security improvements. 
 
 ### [Splunk Incident Response Project](https://github.com/tylerbcrawford/vsi-splunk-siem) 🛠️
-Performed **incident response** and **penetration testing** on VSI’s systems to detect cyberattacks. Leveraged **Splunk** and Windows Security Operations Center 🖥to analyze logs and provide security recommendations. 
+Performed **incident response** and **penetration testing** on VSI’s systems to detect cyberattacks. Leveraged **Splunk** and Windows Security Operations Center to analyze logs and provide security recommendations. 
 
 ### [Secure Web Application](https://github.com/tylerbcrawford/azure-cloud-security) 🌐
 Deployed Dockerized DVWA behind a **load balancer** with Network Security Groups and a Jump Box. Automated with **Ansible**, showcasing **Azure cloud security** best practices.
