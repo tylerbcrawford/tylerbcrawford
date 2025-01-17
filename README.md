@@ -1,4 +1,4 @@
-# Hi, I'm Tyler B. Crawford 👋
+# 👋 Hi, I'm Tyler B. Crawford
 
 ## 🧑‍💻 About Me
 
