@@ -18,9 +18,6 @@ Today, I’m focused on harnessing the power of **AI to enable learning, boost p
 ### [LLiMage](https://github.com/tylerbcrawford/llimage) 📄✨
 Transform PDFs for **AI-driven workflows**: LLiMage extracts text and converts embedded images into **rich descriptions** readable by LLMs. Its **secure, local processing** maximizes privacy and efficiency, ensuring you get the most from your data.
 
-### [Monsterr Media Server](https://github.com/tylerbcrawford/monsterr-media-server) 🖥️
-Presenting **Monsterr Media Server**, a new project crafted with **Python and Bash** on Ubuntu Linux. Emphasizing strong security through the implementation of **two-factor authentication (2FA)**, this project highlights proficiency in developing secure applications alongside an intuitive user interface.
-
 ## Cyber Security Projects 🕵️‍♂️
 
 ### [IoT Lightbulb Hacking Project](https://github.com/tylerbcrawford/iot-vulnerability-analysis) 💡🔓
@@ -34,6 +31,11 @@ Deployed Dockerized DVWA behind a **load balancer** with Network Security Groups
 
 ### [Penetration Testing Project](https://github.com/tylerbcrawford/rekall-penetration-testing) 🕵️‍♀️
 Conducted comprehensive penetration tests on **Rekall Corporation’s network and web applications**, identifying critical vulnerabilities. Used tools like **Nmap**, **Metasploit**, and **Burp Suite** to enhance their security posture.
+
+## Other Projects
+
+### [Monsterr Media Server](https://github.com/tylerbcrawford/monsterr-media-server) 🖥️
+Presenting **Monsterr Media Server**, a new project crafted with **Python and Bash** on Ubuntu Linux. Emphasizing strong security through the implementation of **two-factor authentication (2FA)**, this project highlights proficiency in developing secure applications alongside an intuitive user interface.
 
 ## Connect With Me 🤝
 
