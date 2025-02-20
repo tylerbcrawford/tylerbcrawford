@@ -32,10 +32,10 @@ Deployed Dockerized DVWA behind a **load balancer** with Network Security Groups
 ### 🕵️‍♀️ [Penetration Testing Project](https://github.com/tylerbcrawford/rekall-penetration-testing)
 Conducted comprehensive penetration tests on **Rekall Corporation's network and web applications** identifying critical vulnerabilities. Used tools like **Nmap** **Metasploit** and **Burp Suite** to enhance their security posture.
 
-## 🛠️ Other Projects
+## 🛠️ Linux Projects
 
 ### 🖥️ [Monsterr Media Server](https://github.com/tylerbcrawford/monsterr-media-server)
-Presenting **Monsterr Media Server** a new project crafted with **Python and Bash** on Ubuntu Linux. Emphasizing strong security through the implementation of **two-factor authentication (2FA)** this project highlights proficiency in developing secure applications alongside an intuitive user interface.
+Monsterr Media Server: a secure, user-friendly media platform built with Python, Bash, and TypeScript on Ubuntu Linux.  Featuring 2FA and a redesigned setup wizard, it's currently in active development with a beta program launching soon.
 
 ## 🤝 Connect With Me
 
