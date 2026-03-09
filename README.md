@@ -1,42 +1,43 @@
-# Tyler B. Crawford
+# Tyler Crawford
 
-## 🧑‍💻 About Me
+Systems Administrator | Security Professional | Infrastructure Engineer
 
-I am Tyler B. Crawford, a technical support specialist with a background that bridges technology and the arts. With over 15 years of experience in support and troubleshooting, I've built a reputation for translating complex technical concepts into clear, actionable insights and empowering teams with effective documentation and communication. Recently certified in cybersecurity from the University of Toronto, I am passionate about protecting privacy, enhancing security measures, and fostering collaboration to implement best practices in diverse environments.
+## About
 
-My career also includes a decade in the music industry, where I served as a Tour Manager and Pro Audio Consultant for Juno and Polaris-nominated artists. I've managed 300+ shows and dozens of international tours, coordinated six-figure budgets, and led teams in high-pressure, fast-changing environments. As a consultant, I've designed and optimized recording studio systems, developed and manufactured innovative audio processors, and collaborated with Grammy-winning producers to deliver bespoke technological solutions.
+Systems administrator and security professional with 15+ years of complex systems troubleshooting experience transitioning into IT infrastructure and cybersecurity. Built and maintain a 51-service self-hosted environment on Ubuntu Linux using Docker Compose, nginx, and systemd. CompTIA Security+ certified with a University of Toronto cybersecurity certificate. Experienced in full-stack development (TypeScript, Python), infrastructure automation, and AI-powered tool development.
 
-Today, I'm focused on harnessing the power of AI to enable learning, boost productivity, and develop innovative AI agent solutions. By integrating my technical expertise and creative problem-solving skills, I aim to empower individuals and organizations to achieve more while maintaining a secure and efficient environment.
-## 🚀 Skills
+## Featured Projects
 
-- **Languages**: 🐍 Python 🖥️ Bash 🗄️ SQL 🌐 HTML/CSS 💡 JavaScript
-- **Operating Systems**: 🐧 Linux 🛡️ Kali Linux 🪟 Windows 🍎 MacOS 📱 iOS
-- **Tools**: 🔍 Burp Suite 🛡️ Metasploit 📊 Splunk 🌐 Wireshark 🖇️ GitHub 📝 VS Code 🤖 ChatGPT 🔮 Claude
+- **[Agent Dispatcher](https://github.com/tylerbcrawford/agent-dispatcher)** -- Full-stack TypeScript AI agent orchestration dashboard (React, Express, Docker, systemd)
+- **[Subgeneratorr](https://github.com/tylerbcrawford/subgeneratorr)** -- Open-source subtitle generation tool (Deepgram Nova-3, Docker, Python, MIT)
+- **[Plex Watchlist Viewer](https://github.com/tylerbcrawford/plex-watchlist-viewer)** -- Zero-dependency client-side RSS viewer
 
-## ⚙️ Currently Under Development
+## Certifications
 
-### 📄✨ [LLiMage](https://github.com/tylerbcrawford/llimage)
-Transform PDFs for **AI-driven workflows**: LLiMage extracts text and converts embedded images into **rich descriptions** readable by LLMs. Its **secure local processing** maximizes privacy and efficiency ensuring you get the most from your data.
+| Certification | Status |
+|---|---|
+| CompTIA Security+ SY0-701 | Earned 2024 |
+| CompTIA Network+ N10-009 | In Progress |
+| UofT Cybersecurity Certificate | 2024 |
 
-## 🕵️‍♂️ Cybersecurity Projects
+## Skills
 
-### 💡🔓 [IoT Lightbulb Hacking Project](https://github.com/tylerbcrawford/iot-vulnerability-analysis)
-Analyzed security vulnerabilities in TP-Link Tapo L530E smart bulbs identifying flaws in authentication and encryption. Utilized Wireshark and REST APIs to demonstrate attack scenarios and recommend security improvements.
+| Category | Technologies |
+|---|---|
+| Languages | TypeScript, Python, Bash, SQL, HTML/CSS, JavaScript |
+| Infrastructure | Docker Compose, systemd, nginx, Ubuntu Linux, SQLite |
+| Security | Splunk, Metasploit, Burp Suite, Nmap, Wireshark, NSGs |
+| Frontend | React 19, Tailwind CSS, Vite, xterm.js |
+| Backend | Express, Node.js, Flask, WebSocket, REST APIs |
+| Tools | Git, GitHub Actions, Claude API, Deepgram API, Ansible |
 
-### 🛠️ [Splunk Incident Response Project](https://github.com/tylerbcrawford/vsi-splunk-siem)
-Performed **incident response** and **penetration testing** on VSI's systems to detect cyberattacks. Leveraged **Splunk** and Windows Security Operations Center to analyze logs and provide security recommendations.
+## Cybersecurity Projects (UofT)
 
-### 🌐 [Secure Web Application](https://github.com/tylerbcrawford/azure-cloud-security)
-Deployed Dockerized DVWA behind a **load balancer** with Network Security Groups and a Jump Box. Automated with **Ansible** showcasing **Azure cloud security** best practices.
+- **[Penetration Testing](https://github.com/tylerbcrawford/rekall-penetration-testing)** -- SQL injection, RCE, Metasploit, Burp Suite
+- **[Splunk SIEM](https://github.com/tylerbcrawford/vsi-splunk-siem)** -- Custom SIEM, brute-force and SQLi detection
+- **[Azure Cloud Security](https://github.com/tylerbcrawford/azure-cloud-security)** -- Docker + Ansible + NSGs + Load Balancer
+- **[IoT Vulnerability Analysis](https://github.com/tylerbcrawford/iot-vulnerability-analysis)** -- TP-Link smart bulb security assessment
 
-### 🕵️‍♀️ [Penetration Testing Project](https://github.com/tylerbcrawford/rekall-penetration-testing)
-Conducted comprehensive penetration tests on **Rekall Corporation's network and web applications** identifying critical vulnerabilities. Used tools like **Nmap** **Metasploit** and **Burp Suite** to enhance their security posture.
+## Connect
 
-## 🛠️ Linux Projects
-
-### 🖥️ [Monsterr Media Server](https://github.com/tylerbcrawford/monsterr-media-server)
-Monsterr Media Server: a secure, user-friendly media platform built with Python, Bash, and TypeScript on Ubuntu Linux.  Featuring 2FA and a redesigned setup wizard, it's currently in active development with a beta program launching soon.
-
-## 🤝 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/tylerbcrawford)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tylerbcrawford-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/tylerbcrawford)
