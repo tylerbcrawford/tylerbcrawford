@@ -10,7 +10,7 @@ Systems administrator and security professional with 15+ years of complex system
 
 - **[Agent Dispatcher](https://github.com/tylerbcrawford/agent-dispatcher)** -- Full-stack TypeScript AI agent orchestration dashboard (React, Express, Docker, systemd)
 - **[Subgeneratorr](https://github.com/tylerbcrawford/subgeneratorr)** -- Open-source subtitle generation tool (Deepgram Nova-3, Docker, Python, MIT)
-- **[Plex Watchlist Viewer](https://github.com/tylerbcrawford/plex-watchlist-viewer)** -- Zero-dependency client-side RSS viewer
+- **[Boo Bot](https://github.com/tylerbcrawford/boo-bot)** -- Discord bot for media server management (Python, discord.py, API integrations)
 
 ## Certifications
 
