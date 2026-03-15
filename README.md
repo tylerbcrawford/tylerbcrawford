@@ -1,44 +1,22 @@
 # Tyler Crawford
 
-Systems Administrator | Security Professional | Infrastructure Engineer
+Systems administrator and security professional. I spent 15 years in live sound and audio engineering — touring, running FOH, troubleshooting signal chains under pressure — before moving into IT infrastructure and cybersecurity.
 
-## About
+Now I build and maintain a [51-service self-hosted environment](https://github.com/tylerbcrawford/infrastructure-showcase) on Ubuntu Linux, and I'm working toward a career in infrastructure security.
 
-Systems administrator and security professional with 15+ years of complex systems troubleshooting experience transitioning into IT infrastructure and cybersecurity. Built and maintain a 51-service self-hosted environment on Ubuntu Linux using Docker Compose, nginx, and systemd. CompTIA Security+ certified with a University of Toronto cybersecurity certificate. Experienced in infrastructure automation, Python scripting, and AI-powered tool development.
+## What I'm Working On
 
-## Featured Projects
+- **[Subgeneratorr](https://github.com/tylerbcrawford/subgeneratorr)** — Open-source subtitle generator using Deepgram Nova-3. Built it to fill gaps in my media library that Bazarr couldn't cover.
+- **[Boo Bot](https://github.com/tylerbcrawford/boo-bot)** — Discord bot that runs my media server's community. Rebrands notifications, handles requests, suppresses floods, pulls trailers.
+- **[Infrastructure Showcase](https://github.com/tylerbcrawford/infrastructure-showcase)** — Documentation of the full homelab stack: Docker Compose, nginx, OAuth2, automated backups, monitoring.
+- **AI security testing** at [Mindrift](https://mindrift.ai) — developing test cases for LLM security evaluation.
+- **CompTIA Network+** — currently studying (Security+ earned 2024).
 
-- **[Infrastructure Showcase](https://github.com/tylerbcrawford/infrastructure-showcase)** — 51-service self-hosted stack: Docker Compose, nginx, OAuth2, monitoring, automated backups
-- **[Subgeneratorr](https://github.com/tylerbcrawford/subgeneratorr)** — Open-source subtitle generation (Deepgram Nova-3, Docker, Python, MIT)
-- **[Boo Bot](https://github.com/tylerbcrawford/boo-bot)** — Discord bot for media server management (Python, discord.py, 9 cogs)
+## Cybersecurity Projects (UofT, 2024)
 
-*Currently: AI security testing at [Mindrift](https://mindrift.ai) — developing test cases for LLM security evaluation*
-
-## Certifications
-
-| Certification | Status |
-|---|---|
-| CompTIA Security+ SY0-701 | Earned 2024 |
-| CompTIA Network+ N10-009 | In Progress |
-| UofT Cybersecurity Certificate | 2024 |
-
-## Skills
-
-| Category | Technologies |
-|---|---|
-| Languages | Python, Bash, TypeScript, SQL, HTML/CSS, JavaScript |
-| Infrastructure | Docker Compose, systemd, nginx, Ubuntu Linux, SQLite |
-| Security | Splunk, Metasploit, Burp Suite, Nmap, Wireshark, NSGs |
-| Automation | REST APIs, Flask, WebSocket, GitHub Actions, CI/CD |
-| Tools | Git, Claude Code, Deepgram API, Ansible, rclone |
-
-## Cybersecurity Projects (UofT)
-
-- **[Penetration Testing](https://github.com/tylerbcrawford/rekall-penetration-testing)** — SQL injection, RCE, Metasploit, Burp Suite
-- **[Splunk SIEM](https://github.com/tylerbcrawford/vsi-splunk-siem)** — Custom SIEM, brute-force and SQLi detection
-- **[Azure Cloud Security](https://github.com/tylerbcrawford/azure-cloud-security)** — Docker + Ansible + NSGs + Load Balancer
-- **[IoT Vulnerability Analysis](https://github.com/tylerbcrawford/iot-vulnerability-analysis)** — TP-Link smart bulb security assessment
-
-## Connect
+- **[Penetration Testing](https://github.com/tylerbcrawford/rekall-penetration-testing)** — 3-day pen test: SQL injection, RCE on Struts/Tomcat, Shellshock, credential cracking
+- **[IoT Vulnerability Analysis](https://github.com/tylerbcrawford/iot-vulnerability-analysis)** — TP-Link smart bulb security assessment, CVE reproduction attempts
+- **[Splunk SIEM](https://github.com/tylerbcrawford/vsi-splunk-siem)** — Custom detection rules for brute-force, SQLi, and DoS
+- **[Azure Cloud Security](https://github.com/tylerbcrawford/azure-cloud-security)** — Multi-VM deployment with NSGs, Jump Box, Ansible automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tylerbcrawford-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/tylerbcrawford)
