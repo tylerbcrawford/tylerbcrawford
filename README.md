@@ -9,7 +9,7 @@ Now I build and maintain a [51-service self-hosted environment](https://github.c
 - **[Subgeneratorr](https://github.com/tylerbcrawford/subgeneratorr)** — Open-source subtitle generator using Deepgram Nova-3. Built it to fill gaps in my media library that Bazarr couldn't cover.
 - **[Boo Bot](https://github.com/tylerbcrawford/boo-bot)** — Discord bot that runs my media server's community. Rebrands notifications, handles requests, suppresses floods, pulls trailers.
 - **[Infrastructure Showcase](https://github.com/tylerbcrawford/infrastructure-showcase)** — Documentation of the full homelab stack: Docker Compose, nginx, OAuth2, automated backups, monitoring.
-- **AI security testing** at [Mindrift](https://mindrift.ai) — developing test cases for LLM security evaluation.
+- **AI agent evaluation** at [Mindrift](https://mindrift.ai) — building capability and safety test cases for LLM agents: prompt-injection red-teaming, and coding-agent capability evals (MCP context corpora, automated validators, statistical difficulty calibration).
 - **CompTIA Network+** — currently studying (Security+ earned 2024).
 
 ## Cybersecurity Projects (UofT, 2024)
