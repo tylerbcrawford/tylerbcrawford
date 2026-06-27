@@ -1,17 +1,17 @@
 # Tyler Crawford
 
-I build and operate production infrastructure — and I direct AI agents to build it faster. Self-taught Linux systems administrator running a [49-service self-hosted environment](https://github.com/tylerbcrawford/infrastructure-showcase) on Ubuntu, CompTIA Security+ certified, CompTIA Network+ in progress. I spent 15 years in live sound and audio engineering — touring, running FOH, troubleshooting signal chains under pressure — before moving into infrastructure and security; that's where the stay-calm-and-diagnose operations instinct comes from.
+I build and operate production infrastructure, and direct AI agents to build it faster. Self-taught Linux systems administrator running a [49-service self-hosted environment](https://github.com/tylerbcrawford/infrastructure-showcase) on Ubuntu, CompTIA Security+ certified, CompTIA Network+ in progress. I spent 15 years in live sound and audio engineering — touring, running FOH, troubleshooting signal chains under pressure, before moving into infrastructure and security; that's where the instinct to stay calm and diagnose comes from.
 
 ## AI Orchestration & Evaluation
 
-The differentiator: I don't just use AI tools — I direct agent fleets to build software, and I rigorously evaluate AI agents for capability and safety.
+I direct AI agents to build software, and I evaluate those agents for capability and safety.
 
 - **AI Agent Evaluation** at [Mindrift](https://mindrift.ai) *(contract, under NDA)* — author and calibrate adversarial and capability test cases for LLM-powered agents at a frontier AI lab: indirect prompt-injection red-teaming (credential-exfiltration and unauthorized-action threat models), capability evals with multi-source [Model Context Protocol](https://modelcontextprotocol.io/) context corpora and pytest validators, statistical difficulty calibration, and CI/CD pipelines gated by an LLM-as-judge quality review.
 - **[Subgeneratorr](https://github.com/tylerbcrawford/subgeneratorr)** — Open-source subtitle generator that orchestrates Deepgram Nova-3 with your choice of LLM (Claude / GPT / Gemini / Ollama) for keyterm extraction. Built to fill the gaps Bazarr can't cover.
 
 ## Production Infrastructure
 
-A real, daily-driver environment — not a lab — secured and automated end to end.
+A real, daily-driver environment, secured and automated end to end.
 
 - **[Infrastructure Showcase](https://github.com/tylerbcrawford/infrastructure-showcase)** — Reference architecture for the full 49-service stack: Docker Compose, nginx reverse proxy, Google OAuth2 on every web UI, wildcard SSL via certbot, fail2ban, and a 5-wave tiered startup that prevents boot-time CPU spikes.
 - **[Server Monitoring Suite](https://github.com/tylerbcrawford/server-monitoring-suite)** — Observability stack: container health, resource-threshold alerts, SSL-expiry checks, and log-health auditing, all with Discord alerting and cooldown/dedup logic.
