@@ -6,7 +6,7 @@ I build and operate production infrastructure, and direct AI agents to build it 
 
 I direct AI agents to build software, and I evaluate those agents for capability and safety.
 
-- **AI Agent Evaluation** at [Mindrift](https://mindrift.ai) *(contract, under NDA)*. I author and calibrate adversarial and capability test cases for LLM-powered agents at a frontier AI lab. The adversarial side is indirect prompt-injection red-teaming against credential-exfiltration and unauthorized-action threat models; the capability side uses multi-source [Model Context Protocol](https://modelcontextprotocol.io/) context corpora with pytest validators, statistical difficulty calibration, and a CI/CD pipeline gated by an LLM-as-judge quality review.
+- **AI Agent Evaluation** at [Mindrift](https://mindrift.ai). I author and calibrate adversarial and capability test cases for LLM-powered agents. The adversarial side is indirect prompt-injection red-teaming against credential-exfiltration and unauthorized-action threat models; the capability side uses multi-source [Model Context Protocol](https://modelcontextprotocol.io/) context corpora with pytest validators, statistical difficulty calibration, and a CI/CD pipeline gated by an LLM-as-judge quality review.
 - **[llm-eval-harness](https://github.com/tylerbcrawford/llm-eval-harness):** Open-source LLM-as-judge harness that scores model outputs against a rubric and gates CI on the result. It's a small, runnable version of the measurement work described above, built to run fully offline with recorded fixtures.
 - **[Subgeneratorr](https://github.com/tylerbcrawford/subgeneratorr):** Open-source subtitle generator that orchestrates Deepgram Nova-3 with your choice of LLM (Claude / GPT / Gemini / Ollama) for keyterm extraction. Built to fill the gaps Bazarr can't cover.
 
@@ -29,7 +29,7 @@ A real, daily-driver environment, secured and automated end to end.
 
 ## Certifications
 
-- **CompTIA Security+ (SY0-701):** earned 2024
+- **CompTIA Security+ (SY0-701):** earned 2026
 - **CompTIA Network+ (N10-009):** in progress (exam summer 2026)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tylerbcrawford-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/tylerbcrawford)
