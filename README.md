@@ -1,6 +1,6 @@
 # Tyler Crawford
 
-I build and operate production infrastructure, and direct AI agents to build it faster. Self-taught Linux systems administrator running a [49-service self-hosted environment](https://github.com/tylerbcrawford/infrastructure-showcase) on Ubuntu, CompTIA Security+ certified, CompTIA Network+ in progress. I spent 15 years in live sound and audio engineering — touring, running FOH, troubleshooting signal chains under pressure, before moving into infrastructure and security; that's where the instinct to stay calm and diagnose comes from.
+I operate and production infrastructure, and direct AI agents to build it faster. Self-taught Linux systems administrator running a [49-service self-hosted environment](https://github.com/tylerbcrawford/infrastructure-showcase) on Ubuntu, CompTIA Security+ certified, CompTIA Network+ in progress. I spent 15 years in live sound and audio engineering — touring, running FOH, troubleshooting signal chains under pressure, before moving into infrastructure and security; that's where the instinct to stay calm and diagnose comes from.
 
 ## AI Orchestration & Evaluation
 
