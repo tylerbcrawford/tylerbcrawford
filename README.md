@@ -1,8 +1,10 @@
 # Tyler Crawford
 
-Fifteen years of customer-facing technical support, then infrastructure. I've been Head of Technical Support at a Montreal pro-audio company since 2021, after a decade as a support technician there: 4,000+ resolved tickets, mostly Mac-based creative professionals with a driver, firmware, licensing, or network problem standing between them and a session. Outside work I run a [57-service self-hosted environment](https://github.com/tylerbcrawford/infrastructure-showcase) on Ubuntu, joined to a six-node Tailscale fleet, and I'm CompTIA Security+ certified with Network+ in progress. Alongside the support work, I spent nine years tour-managing and running front-of-house for Juno- and Polaris-nominated artists: 300+ shows in nine countries, console networks and RF coordination under pressure, no helpdesk. That's where the instinct to stay calm and diagnose comes from.
+Fifteen years of customer-facing technical support, then infrastructure. I've done technical support at a small Montreal pro-audio company since 2009, as senior technician from 2021 (supervising and training two juniors) and, since late 2025, as its only technician: 4,000+ resolved tickets, mostly Mac-based creative professionals with a driver, firmware, licensing, or network problem standing between them and a session. Outside work I run a [57-service self-hosted environment](https://github.com/tylerbcrawford/infrastructure-showcase) on Ubuntu, joined to a six-node Tailscale fleet, and I'm CompTIA Security+ certified with Network+ in progress. Alongside the support work, I spent nine years tour-managing and running front-of-house for Juno- and Polaris-nominated artists: 300+ shows in nine countries, console networks and RF coordination under pressure, no helpdesk. That's where the instinct to stay calm and diagnose comes from.
 
 **Cross-platform by necessity:** macOS daily since 2005 and the platform I support professionally · Linux servers and a Linux laptop at home · Windows for PC builds and the occasional user bug report · iOS as a tailnet node.
+
+**How I build:** the infrastructure and tooling repos below were built with Claude Code under my direction. I own the architecture and run them in production; each repo says so at the top. The bootcamp write-ups were prepared the same way from 2024 lab work.
 
 ## Support in the Open
 
